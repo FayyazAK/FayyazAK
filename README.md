@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fayyazak-%230077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/fayyazak)
 [![Email](https://img.shields.io/badge/Email-fayyazali.cs%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fayyazali.cs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-fayyazak-181717?style=flat-square&logo=github)](https://github.com/fayyazak)
-![Profile Views](https://visitcount.itsvg.in/api?id=fayyazak&icon=0&color=0&style=flat-square)
 
 </div>
 
@@ -98,14 +97,6 @@ I've worked across both enterprise-scale systems and startup environments — bu
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fayyazak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
