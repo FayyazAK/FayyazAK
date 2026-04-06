@@ -101,11 +101,15 @@ I've worked across both enterprise-scale systems and startup environments — bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fayyazak&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=fayyazak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=fayyazak&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fayyazak&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -115,17 +119,17 @@ I've worked across both enterprise-scale systems and startup environments — bu
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=fayyazak&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=fayyazak&theme=flat&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
 ---
 
-## Top Contributed Repos
+## Activity Graph
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=fayyazak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fayyazak&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
