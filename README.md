@@ -119,17 +119,17 @@ I've worked across both enterprise-scale systems and startup environments — bu
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=fayyazak&theme=flat&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=fayyazak&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## Activity Graph
+## Commit Heatmap
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fayyazak&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fayyazak&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
