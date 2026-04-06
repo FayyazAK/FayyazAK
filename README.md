@@ -106,16 +106,6 @@ I've worked across both enterprise-scale systems and startup environments — bu
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=fayyazak&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Commit Heatmap
 
 <div align="center">
