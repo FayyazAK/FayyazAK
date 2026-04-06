@@ -26,8 +26,8 @@ I've worked across both enterprise-scale systems and startup environments — bu
 
 | Role | Company | Focus |
 |---|---|---|
-| **Software Engineer** *(current)* | JazzCash | Backend microservices, fintech APIs, real-time systems |
-| **Junior Full-Stack Engineer** *(prev)* | Ed-Tech Aviation Platform | LMS, admin dashboards, AI integrations |
+| **Software Engineer** *(current)* | JazzCash | NodeJs, React, Backend microservices, fintech APIs, real-time systems |
+| **Full-Stack Engineer** *(prev)* | Evoke Valley | MERN, FastAPI, LLM, AI, LangGraph, LangChain |
 
 ---
 
