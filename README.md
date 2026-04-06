@@ -103,17 +103,6 @@ I've worked across both enterprise-scale systems and startup environments — bu
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fayyazak&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## Commit Heatmap
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fayyazak&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 <div align="center">
