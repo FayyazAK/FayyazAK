@@ -2,7 +2,7 @@
 
 # Fayyaz Ali
 
-**Backend-focused Full-Stack Engineer**
+**Full-Stack Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fayyazak-%230077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/fayyazak)
 [![Email](https://img.shields.io/badge/Email-fayyazali.cs%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fayyazali.cs@gmail.com)
@@ -14,7 +14,7 @@
 
 ## About
 
-Backend-focused Full-Stack Engineer with hands-on experience in **Node.js, NestJS, React, Next.js**, and microservices. Currently contributing to backend systems powering **JazzCash**, one of Pakistan's largest fintech platforms.
+Full-Stack Software Engineer with hands-on experience in **Node.js, NestJS, React, Next.js**, and microservices. Currently contributing to backend systems powering **JazzCash**, one of Pakistan's largest fintech platforms.
 
 I've worked across both enterprise-scale systems and startup environments — building microservices, integrating third-party financial services, developing real-time communication features, and optimizing performance in high-traffic environments. Previously a Junior Full-Stack Engineer on a full-fledged **Ed-Tech aviation training platform**, where I built LMS features, admin dashboards, and AI-powered modules using OpenAI and Gemini.
 
